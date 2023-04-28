@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-<!--
-**Vmalik1995/Vmalik1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Vaibhav Malik , Data Science and Machine Learning Scholar at Jovian.com
 
 - 🔭 I’m currently working on flight Delay Prediction using the data set provided at Kaggle.
 - 🌱 I’m currently learning Data Science and Machine Learning from Jovian.com
