@@ -8,6 +8,14 @@ Vaibhav Malik , Data Science and Machine Learning Scholar at Jovian.com
 - 💬 Ask me about Data Analysis and Visualization, Data Science and Machine Learning Algorithms
 - 📫 How to reach me: ping me at +917906449284
 - ⚡ Fun fact: Never want to code , yet I am.
+# Skills
+
+* Data Analysis and Visualization using numpy, plotly, seaborn.
+* Data Cleaning and preprocessing using Pandas.
+* Machine Learning using sci-kit learn.
+* Regression techniques
+* Dashboards using Excel and Tableau.
+* Data Query using SQL.
 
 # Projects
 ## 1.Web Scraping Amazon's top selling books and storing information into csv files.
