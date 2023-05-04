@@ -1,5 +1,5 @@
 ### Hi there 👋
-Vaibhav Malik , Data Science and Machine Learning Scholar at Jovian.com
+Vaibhav Malik , Data Science and Machine Learning Student at Jovian.com
 
 -  I’m currently working on flight Delay Prediction using the data set provided at Kaggle.
 -  I’m currently learning Data Science and Machine Learning from Jovian.com
@@ -19,8 +19,12 @@ Vaibhav Malik , Data Science and Machine Learning Scholar at Jovian.com
 * Data Query using SQL.
 
 # Projects
+
 ## 1.Web Scraping Amazon's top selling books and storing information into csv files.
-[https://jovian.com/outlink?url=https%3A%2F%2Fjovian.ai%2Fghost-smith9557%2Fmyproject](url)
+
+![images](https://user-images.githubusercontent.com/17110624/236178741-c4c9c13f-9265-4958-a93d-d1b636954cd2.jpeg)
+
+Link - [https://jovian.com/outlink?url=https%3A%2F%2Fjovian.ai%2Fghost-smith9557%2Fmyproject](url)
 
 ### Outline
 
@@ -29,7 +33,9 @@ Vaibhav Malik , Data Science and Machine Learning Scholar at Jovian.com
 * storing information into CSV file using Pandas, 200rows* 7 columns.
 
 ## 2.Exploratory Data Analysis and Visualization of Iowa liquor sales
-[https://jovian.com/ghost-smith9557/eda-of-liquor-sales-in-iowa-2-03281](url)
+![istockphoto-533957701-612x612](https://user-images.githubusercontent.com/17110624/236178204-ed903d57-0ffe-4a40-bce8-65dd8eb258ef.jpg)
+
+Link - [https://jovian.com/ghost-smith9557/eda-of-liquor-sales-in-iowa-2-03281](url)
 
 ### Outline
 
@@ -45,7 +51,9 @@ Vaibhav Malik , Data Science and Machine Learning Scholar at Jovian.com
 * There are 70 different categories of liquor constituting everyday sales in the Iowa state.
 
 ## 3.Flight Delay Prediction using MachineLearning
-[https://jovian.com/ghost-smith9557/flightdelays-1](url)
+![Flights](https://user-images.githubusercontent.com/17110624/236177872-a67a2062-d149-4c8e-80ef-e16c9eb91c35.png)
+
+Link - [https://jovian.com/ghost-smith9557/flightdelays-1](url)
 
 ### Outline
 
